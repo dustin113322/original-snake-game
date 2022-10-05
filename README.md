@@ -1,1 +1,1 @@
-# original-snake-game
+this is the original snake game, hope you enjoy
